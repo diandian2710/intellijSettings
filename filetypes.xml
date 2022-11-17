@@ -1,11 +1,32 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="2022_02_28_CON_new_partner_source_for_PAPILLON.sql" type="AUTO_DETECTED" />
+      <mapping pattern="Perth" type="AUTO_DETECTED" />
+      <mapping pattern="2021_08_13_CON_Create_Partner_Source.sql" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping pattern="2021_08_13_CON_Create_Partner_Source" type="spring.factories" />
+      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
+      <removed_mapping ext="env" approved="true" type=".env file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>

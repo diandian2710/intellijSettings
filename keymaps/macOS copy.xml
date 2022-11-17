@@ -1,15 +1,58 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="CollapseBlock" />
-  <action id="GotoAction" />
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="CodeCompletion" />
+  <action id="CodeCompletionGroup">
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="CreateResourceBundle">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
+  <action id="EditorContextInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorToggleShowBreadcrumbs">
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="meta alt 7" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
-  <action id="NextTab" />
-  <action id="PreviousTab" />
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="PreviousProjectWindow">
+    <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="QuickJavaDoc" />
   <action id="ResizeToolWindowLeft">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="ResizeToolWindowRight">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
+  <action id="ToggleCompletionHintsAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Vcs.Push" />
 </keymap>

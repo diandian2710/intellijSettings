@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="bastion-dev" id="0aed965c-d244-4a6b-8c44-07481680c257" port="22" nameFormat="DESCRIPTIVE" username="oliver.wang" />
+      <sshConfig authType="OPEN_SSH" host="bastion-production" id="9f2c2f32-9e5c-41e1-8fc8-78482eba3459" port="22" nameFormat="DESCRIPTIVE" username="oliver.wang" />
+      <sshConfig authType="OPEN_SSH" host="bastion-test" id="61a0d9de-a344-4479-b7bb-be58066e9470" port="22" nameFormat="DESCRIPTIVE" username="oliver.wang" />
+      <sshConfig authType="OPEN_SSH" host="bastion-staging" id="262c37cc-b391-4a6e-8cb1-890c8505d228" port="22" nameFormat="DESCRIPTIVE" username="oliver.wang" />
+    </configs>
+  </component>
+</application>
