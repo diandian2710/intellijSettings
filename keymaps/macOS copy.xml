@@ -1,0 +1,15 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CollapseBlock" />
+  <action id="GotoAction" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="NextTab" />
+  <action id="PreviousTab" />
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+</keymap>
