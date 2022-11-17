@@ -1,0 +1,16 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfc8df93df99df99df9edf98df9adf92df9ddfc8df9cdfc9dfcbdf92df9fdfcedf9bdf9fdf9adf98dfcbdf9ddfc9dfcbdfccdf9fdfcedf9cdfcedf9edf9bdf92df99df9cdfcbdfc9df99df92dfccdf98</token>
+          <option name="name" value="oliver-wang-test" />
+          <organizationKey>oliver-wang-test</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>

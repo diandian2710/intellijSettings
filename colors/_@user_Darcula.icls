@@ -1,0 +1,24 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-08-21T22:51:57</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2020.2.0.0</property>
+    <property name="modified">2020-10-14T20:18:12</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="INDENT_GUIDE" value="969494" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c42727" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c42727" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

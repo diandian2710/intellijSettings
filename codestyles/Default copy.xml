@@ -1,0 +1,10 @@
+<code_scheme name="Default copy" version="173">
+  <codeStyleSettings language="Cookie">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
