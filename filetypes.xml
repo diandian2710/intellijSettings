@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="2022_02_28_CON_new_partner_source_for_PAPILLON.sql" type="AUTO_DETECTED" />
       <mapping pattern="Perth" type="AUTO_DETECTED" />
       <mapping pattern="2021_08_13_CON_Create_Partner_Source.sql" type="AUTO_DETECTED" />
-      <mapping pattern="2022_02_28_CON_new_partner_source_for_PAPILLON.sql" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
