@@ -1,4 +1,7 @@
 <application>
+  <component name="ComposeFilesSynchronizedWithServiceView">
+    <option value="file://$USER_HOME$/workspace/payments-dongle-management/app/docker-compose-local.yml" />
+  </component>
   <component name="DockerSettings">
     <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerMachinePath" value="/usr/local/bin/docker-machine" />
