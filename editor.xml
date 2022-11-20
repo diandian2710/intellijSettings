@@ -21,6 +21,7 @@
     <option name="disabledCodeVisionProviderIds">
       <set>
         <option value="references" />
+        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
@@ -29,6 +30,6 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value="JAVA.parameter.hints.old" />
   </component>
 </application>
