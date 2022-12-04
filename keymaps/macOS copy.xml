@@ -33,16 +33,16 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="meta alt 7" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
   <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta alt back_quote" />
-    <keyboard-shortcut first-keystroke="meta k" />
+    <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
   <action id="PreviousProjectWindow">
-    <keyboard-shortcut first-keystroke="shift meta alt back_quote" />
-    <keyboard-shortcut first-keystroke="meta j" />
+    <keyboard-shortcut first-keystroke="meta alt j" />
   </action>
   <action id="QuickJavaDoc" />
   <action id="ResizeToolWindowLeft">
@@ -51,6 +51,7 @@
   <action id="ResizeToolWindowRight">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
+  <action id="SurroundWithLiveTemplate" />
   <action id="ToggleCompletionHintsAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
